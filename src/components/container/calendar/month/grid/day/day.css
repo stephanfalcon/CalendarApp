@@ -1,0 +1,13 @@
+.day{
+    background:rgb(115, 115, 141);
+    width:12%;
+    height:150px;
+    animation-name:load;
+    animation-duration:1s
+}
+
+@keyframes load{
+    0%{
+        background:transparent
+    }
+}
